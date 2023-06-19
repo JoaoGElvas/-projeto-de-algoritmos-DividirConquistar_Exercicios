@@ -1,45 +1,41 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercicios Dividir e Conquistar
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+**Número da Lista**: 31<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+
+## Exercicios
+
+### 1.
+
+```
+Dificuldade:
+```
+
+### 2.
+
+```
+Dificuldade: 
+```
+
+### 3.
+
+```
+Dificuldade: 
+```
+
+
+### 4. 
+
+```
+Dificuldade: 
+```
+
+### [Vídeo Explicação]()
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+| Matrícula | Aluno                          |
+|-----------|--------------------------------|
+| 190134275 | Bruno Henrique Moreira Cardoso |
+| 190109599 | João Gabriel Elvas Ribeiro     |
