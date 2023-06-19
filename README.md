@@ -2,7 +2,7 @@
 
 
 **Número da Lista**: 31<br>
-**Conteúdo da Disciplina**: Grafos2<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 
 ## Exercicios
