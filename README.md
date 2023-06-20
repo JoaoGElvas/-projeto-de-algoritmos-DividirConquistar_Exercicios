@@ -7,22 +7,23 @@
 
 ## Exercicios
 
-### 1.
+### 1.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 ```
-Dificuldade:
+Dificuldade: Medium
 ```
 
-### 2.
+### 2.[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+
 
 ```
-Dificuldade: 
+Dificuldade: Medium
 ```
 
-### 3.
+### 3.[Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/description/)
 
 ```
-Dificuldade: 
+Dificuldade: Medium 
 ```
 
 
