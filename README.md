@@ -33,7 +33,7 @@ Dificuldade: Medium
 Dificuldade: Hard
 ```
 
-### [Vídeo Explicação](video\Gravar_2023_06_19_22_24_11_542.mp4)
+### [Vídeo Explicação](https://youtu.be/y2JmFdPRKtY)
 
 ## Alunos
 | Matrícula | Aluno                          |
